@@ -1,0 +1,23 @@
+  <ion-view >
+  <ion-nav-buttons side="left">
+    <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+  </ion-nav-buttons>
+  <ion-content >
+    <div class="list card" ng-repeat="coleccion in prensa">
+      <a href="#/app/prensa/{{coleccion.coleccionId}}">
+        <div class="item item-image image-collection">
+          <img ng-src="{{coleccion.imagen}}">
+        </div>
+
+        <a class="name-collection" href="#/app/prensa/{{coleccion.coleccionId}}" animation="slide-in-left">
+          <p>{{coleccion.nombre}}</p>
+          <span>{{coleccion.temporada}}</span>
+        </a>
+      </a>
+      
+    </div>
+
+
+    
+  </ion-content>
+</ion-view>

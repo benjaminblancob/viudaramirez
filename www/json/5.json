@@ -1,0 +1,13 @@
+{
+  "nombre": "Viuda Ramirez Verano 2012",
+  "fotografo": "",
+  "galeria": [
+    {
+      "imagenUrl": "coleccion/viudaramirez-verano-2012-g-1.jpg"
+    },{
+      "imagenUrl": "coleccion/viudaramirez-verano-2012-g-2.jpg"
+    },{
+      "imagenUrl": "coleccion/viudaramirez-verano-2012-g-3.jpg"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nombre": "AFW Primavera Verano 2010",
+  "fotografo": "",
+  "galeria": [
+    {
+      "imagenUrl": "coleccion/afw-primavera-verano-2010-g-3.jpg"
+    },{
+      "imagenUrl": "coleccion/afw-primavera-verano-2010-g-4.jpg"
+    },{
+      "imagenUrl": "coleccion/afw-primavera-verano-2010-g-2.jpg"
+    }
+  ]
+}

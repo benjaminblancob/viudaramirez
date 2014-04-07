@@ -1,0 +1,13 @@
+{
+  "nombre": "Viuda Ramirez Invierno 2013",
+  "fotografo": "",
+  "galeria": [
+    {
+      "imagenUrl": "coleccion/viudaramirez-invierno-2013-g-1.jpg"
+    },{
+      "imagenUrl": "coleccion/viudaramirez-invierno-2013-g-3.jpg"
+    },{
+      "imagenUrl": "coleccion/viudaramirez-invierno-2013-g-4.jpg"
+    }
+  ]
+}

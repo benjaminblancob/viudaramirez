@@ -1,0 +1,40 @@
+<ion-side-menus>
+
+  <ion-pane ion-side-menu-content>
+    <ion-nav-bar class="bar-stable">
+      <ion-nav-back-button class="button-clear"><i class="icon ion-chevron-left"></i> Back</ion-nav-back-button>
+    </ion-nav-bar>
+    <ion-nav-view name="menuContent" animation="slide-left-right"></ion-nav-view>
+
+
+    <div class="bar bar-header bar-light">
+      <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+      <h1 class="title"><img src="img/viuda-ramirez.svg" alt=""></h1>
+      <!-- <button class="button button-icon icon ion-search"></button> -->
+    </div>
+  </ion-pane>
+
+  <ion-side-menu side="left" class="vr-sidebar-menu">
+    <img src="img/viuda-ramirez-blanco.svg" alt="">
+    <ion-content class="has-logo" >
+      <ion-list>
+        <ion-item nav-clear menu-close href="#/app/colecciones">
+          Colecciones
+        </ion-item>
+        <ion-item nav-clear menu-close href="#/app/prensa">
+          Prensa
+        </ion-item>
+        <ion-item nav-clear menu-close href="#/app/novedades">
+          Novedades
+        </ion-item>
+         <ion-item nav-clear menu-close href="#/app/acerca">
+          Acerca
+        </ion-item>
+        
+      </ion-list>
+      
+    
+    </ion-content>
+    
+  </ion-side-menu>
+</ion-side-menus>

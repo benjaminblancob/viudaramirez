@@ -1,0 +1,11 @@
+{
+  "nombre": "AFW Invierno 2011",
+  "fotografo": "",
+  "galeria": [
+    {
+      "imagenUrl": "coleccion/afw-invierno-2011-g-1.jpg"
+    },{
+      "imagenUrl": "coleccion/afw-invierno-2011-g-2.jpg"
+    }
+  ]
+}
